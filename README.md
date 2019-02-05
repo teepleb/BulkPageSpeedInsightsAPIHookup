@@ -1,5 +1,7 @@
 ### This tool is outdated as there have been advancements for the page speed insights API. Please see newer version in the same user's profile.
 
+https://github.com/teepleb/Google-PageSpeedInsights-BulkAnalyzer
+
 
 # BulkPageSpeedInsightsAPIHookup
 
